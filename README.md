@@ -1,2 +1,2 @@
 # Cat-Dog-classification
-This program is an image classification model that detects, if the given image is of a cat or dog. 
+This program is an image classification model that detects, if the given image is of a cat or dog. In this model, I have used machine learning optimizers, and Keras library of Python. We can learn basic machine learning concepts related to image processing from this project. I have provided the code for basic image processing, image file, and the main image classification code.
